@@ -7,9 +7,9 @@ Por tanto, gracias a este repositorio se realiza la redirección de <http://crm.
 Lista de enlaces antiguos:  
 * [OK] <http://crm.ii.uam.es/web/>
 * [OK] <http://crm.ii.uam.es/web/index.php>
+* [OK] <http://arantxa.ii.uam.es/~mecatron/>
 * [caído] <http://uam.es/crm>
-* [caído] <http://arantxa.ii.uam.es/~mecatron/>
 * [caído] <http://spock.ii.uam.es>
 
-Última comprobación: 3/Nov/2015  
+Última comprobación: 11/Nov/2015  
 
