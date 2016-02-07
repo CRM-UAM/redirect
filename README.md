@@ -9,6 +9,8 @@ Lista de enlaces antiguos:
 * [OK] <http://crm.ii.uam.es/web/index.php>
 * [OK] <http://arantxa.ii.uam.es/~mecatron/>
 * [OK] <http://www.eps.uam.es/~mecatron/>
+* [OK] <http://www.ii.uam.es/~mecatron/>
+* [caído] <http://www.ii.uam.es/~mecatron/index.php3>
 * [caído] <http://uam.es/crm> (no hay planes para renovarlo)
 * [caído] <http://spock.ii.uam.es> (no hay planes para renovarlo)
 
