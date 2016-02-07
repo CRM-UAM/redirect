@@ -8,8 +8,9 @@ Lista de enlaces antiguos:
 * [OK] <http://crm.ii.uam.es/web/>
 * [OK] <http://crm.ii.uam.es/web/index.php>
 * [OK] <http://arantxa.ii.uam.es/~mecatron/>
-* [caído] <http://uam.es/crm>
-* [caído] <http://spock.ii.uam.es>
+* [OK] <http://www.eps.uam.es/~mecatron/>
+* [caído] <http://uam.es/crm> (no hay planes para renovarlo)
+* [caído] <http://spock.ii.uam.es> (no hay planes para renovarlo)
 
-Última comprobación: 26/Ene/2016  
+Última comprobación: 7/Feb/2016  
 
